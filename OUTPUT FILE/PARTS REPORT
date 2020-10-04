@@ -1,0 +1,543 @@
+     DATE:  2020/10/04                                                    PAGE: 01
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     HEATER CORE          002         FORD          CARQUEST         LOWEST QUALITY
+
+     ORDER ADDRESS: 9900 INKSTER RD, CARBONDALE, IL 60001
+     SCHED ADDRESS: 1000 JAMISON ST, ASHLAND, KY 42788
+     REMIT ADDRESS: 1100 KEMPER DR, AUBURN, ME 03965
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $430.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      221
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 02
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     THRUST WASHER        001         TOYOTA        FORD AUTO        HIGHEST QUALITY
+
+     ORDER ADDRESS: 4200 JONAS AVE, CLEVELAND, OH 43555
+     SCHED ADDRESS: 4300 KELLI DR, BEND, OR 97001
+     REMIT ADDRESS: 4400 LONNI CT, KELSO, WA 98730
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $705.27
+     TOTAL QUANTITY IN PURCHASE ORDERS:      669
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 03
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     CRANK SHAFT          002         JAGUAR        CHEVROLET        AVERAGE QUALITY
+
+     ORDER ADDRESS: 4500 MARY AVE, HOUSTON, TX 75001
+     SCHED ADDRESS: 4600 NANCY DR, OGDEN, UT 84001
+     REMIT ADDRESS: 4700 OSCAR CT, RUTLAND, VT 05702
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $825.27
+     TOTAL QUANTITY IN PURCHASE ORDERS:      789
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 04
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     OIL PAN              003         PEUGEOT       PONTIAC          LOWEST QUALITY
+
+     ORDER ADDRESS: 4800 PAUL RD, ENID, OK 73401
+     SCHED ADDRESS: 4900 QUINN DR, DIST OF COLUM, DC 20042
+     REMIT ADDRESS: 5000 ROSE CT, BURBANK, CA 95999
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:         $82.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:       69
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 05
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     OIL PUMP             004         BMW           VOLKSWAGON       LOWEST QUALITY
+
+     ORDER ADDRESS: 5100 SLACK RD, DURHAM, NC 28909
+     SCHED ADDRESS: 5200 TINSEL DR, BATH, WV 26886
+     REMIT ADDRESS: 5300 UTAH CT, BUFFALO, WY 82299
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $202.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      189
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 06
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     BALL JOINT           001         CHRYSLER      JAGUAR AUTO      HIGHEST QUALITY
+
+     ORDER ADDRESS: 5400 VANCOR RD, MILWAUKEE, WI 53001
+     SCHED ADDRESS: 5500 WINTER DR, NOME, AK 99599
+     REMIT ADDRESS: 5600 XAVIER CT, FALLON, NV 89883
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $322.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      309
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 07
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     LATERAL ARM          002         FORD          BMW AUTO         AVERAGE QUALITY
+
+     ORDER ADDRESS: 5700 YORK RD, MADISON, SD 57532
+     SCHED ADDRESS: 5800 ZINDER DR, BARRINGTON, RI 02901
+     REMIT ADDRESS: 5900 ASPEN CT, KAPAA, HI 96701
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $442.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      429
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 08
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     SWAY BAR             004         VOLKSWAGON    AAMACO           LOWEST QUALITY
+
+     ORDER ADDRESS: 6300 ELGIN RD, POWDER SPRINGS, CO 81200
+     SCHED ADDRESS: 6400 FAUST DR, GLOBE, AZ 86541
+     REMIT ADDRESS: 6500 GREGOR CT, FARMINGTON, CT 06928
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $682.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      669
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 09
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     TRAILING ARM         003         GM            OREILLEYS        AVERAGE QUALITY
+
+     ORDER ADDRESS: 6000 BRACK RD, DAYTONA, FL 33550
+     SCHED ADDRESS: 6100 CREW DR, DALTON, GA 39901
+     REMIT ADDRESS: 6200 DAVID CT, HOLLYWOOD, DE 19701
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $562.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      549
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 10
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     STABILIZER BAR       001         TOYOTA        GOOD YEAR        HIGHEST QUALITY
+
+     ORDER ADDRESS: 6600 NINGLE RD, HOBART, IN 47997
+     SCHED ADDRESS: 6700 FITCH DR, DANVILLE, KY 41000
+     REMIT ADDRESS: 6800 ROGER CT, BURLINGTON, IA 51390
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $802.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      789
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 11
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     CV BOOT              002         JAGUAR        GENERAL MOTORS   LOWEST QUALITY
+
+     ORDER ADDRESS: 6900 HARKIN RD, CAIRO, IL 62999
+     SCHED ADDRESS: 7000 IONNA DR, ELKTON, MD 20797
+     REMIT ADDRESS: 7100 JILLIAN CT, GREENWOOD, MS 39776
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:         $67.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:       69
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 12
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     U JOINT              003         PEUGEOT       TOYOTA           AVERAGE QUALITY
+
+     ORDER ADDRESS: 7200 KYRA RD, ABINGTON, MA 01001
+     SCHED ADDRESS: 7300 LYMON DR, BRONX, NY 06390
+     REMIT ADDRESS: 7400 MUSTER CT, CHARLOTTE, NC 27950
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $187.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      189
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 13
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     TRANSMISSION         004         BMW           ALLSTATE AUTO    HIGHEST QUALITY
+
+     ORDER ADDRESS: 7500 NOLA RD, BRYAN, TX 75501
+     SCHED ADDRESS: 7600 OPPER DR, ATHENS, TN 37010
+     REMIT ADDRESS: 7700 PRUITT CT, NEWPORT, RI 02875
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $307.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      309
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 14
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     AIR FILTER           001         CHRYSLER      MIDAS            HIGHEST QUALITY
+
+     ORDER ADDRESS: 7800 QUILL RD, AIKEN, SC 29800
+     SCHED ADDRESS: 7900 RANCH DR, SALINA, KS 66999
+     REMIT ADDRESS: 8000 SUDDER LN, HOMESTEAD, DE 19980
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $427.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      429
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 15
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     OIL FILTER           002         FORD          MEINEKE          LOWEST QUALITY
+
+     ORDER ADDRESS: 8100 TULLEY RD, SUITE 501, ENGLEWOOD, CO 81501
+     SCHED ADDRESS: 8200 UBER DR, BESSEMER, AL 36042
+     REMIT ADDRESS: 8300 VANCE LN, GROTON, CT 06725
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $547.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      549
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 16
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     AT FILTER KIT        003         GM            CARQUEST         AVERAGE QUALITY
+
+     ORDER ADDRESS: 8100 WALKER RD, THIRD FLOOR, FRANKFORT, KY 41030
+     SCHED ADDRESS: 8200 XENIA DR, PIPESTONE, MN 55800
+     REMIT ADDRESS: 8300 YORK LN, MIDDLETON, RI 02922
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $667.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      669
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 17
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     OIL DRAIN            004         VOLKSWAGON    ADVANCE          HIGHEST QUALITY
+
+     ORDER ADDRESS: 8400 ZENOBA RD, FIFTH FLOOR, PO BOX 92, MONTGOMERY, AL 35830
+     SCHED ADDRESS: 8500 AZURE DR, KINGMAN, AZ 86000
+     REMIT ADDRESS: 8600 BOUNCE LN, HARRISON, AR 72804
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $827.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      819
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 18
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     OIL DRAIN PLUG       001         TOYOTA        SAMS CLUB        HIGHEST QUALITY
+
+     ORDER ADDRESS: 8700 CLOCK RD, GENOA, NV 88983
+     SCHED ADDRESS: 8800 DANUBE DR, CANTON, IL 62305
+     REMIT ADDRESS: 8900 ELKHART LN, LINCOLN, NE 68122
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:         $65.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:       69
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 19
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     CABIN AIR FILT       002         JAGUAR        NAPA AUTO        LOWEST QUALITY
+
+     ORDER ADDRESS: 9000 FEDDER RD, EUGENE, OR 97300
+     SCHED ADDRESS: 9100 GENTY DR, ALTA, UT 84784
+     REMIT ADDRESS: 9200 HOPE LN, LEXINGTON, VA 20040
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $175.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      179
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 20
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     PCV VALVE            003         PEUGEOT       FIRESTONE        AVERAGE QUALITY
+
+     ORDER ADDRESS: 9300 INKSTER RD, GRAFTON, WV 26321
+     SCHED ADDRESS: 9400 JANSEN DR, OSHKOSH, WI 54990
+     REMIT ADDRESS: 9500 KIPPLER LN, CASPER, WY 82001
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $295.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      299
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 21
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     IGNITION COIL        004         BMW           AUTO ZONE        LOWEST QUALITY
+
+     ORDER ADDRESS: 9600 LEMON ST, NASHVILLE, TN 38589
+     SCHED ADDRESS: 9700 MAPLE DR, BURNS, OR 97920
+     REMIT ADDRESS: 9800 NAPLES AVE, CANTON, OH 43001
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $425.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      429
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 22
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     IGNITION HOUSE       001         CHRYSLER      WALMART          HIGHEST QUALITY
+
+     ORDER ADDRESS: 1000 OPAL ST, MONTGOMERY, AL 36500
+     SCHED ADDRESS: 1100 PARK AVE, KODIAK, AK 99750
+     REMIT ADDRESS: 1200 QUIMBLE DR, MESA, AZ 85900
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $545.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      549
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 23
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     NGK GLOW PLUG        002         FORD          QUALITY AUTO     LOWEST QUALITY
+
+     ORDER ADDRESS: 1300 LAPO ST, BILLINGS, MT 59001
+     SCHED ADDRESS: 1400 KARP AVE, OMAHA, NE 69367
+     REMIT ADDRESS: 1500 BLIMIE DR, RENO, NV 88999
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $755.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      759
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 24
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     TRUNK LATCH          003         GM            MERCEDES         AVERAGE QUALITY
+
+     ORDER ADDRESS: 1600 RIPPLE ST, CARMEL, CA 93723
+     SCHED ADDRESS: 1700 STARR AVE, GREELEY, CO 80999
+     REMIT ADDRESS: 1800 TOPPLE DR, DIST OF COLUM, DC 20001
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:         $79.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:       69
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 25
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     TRUNK COVER          004         VOLKSWAGON    PEUGOT           LOWEST QUALITY
+
+     ORDER ADDRESS: 1900 EPPLE ST, BIRMINGHAM, AL 35400
+     SCHED ADDRESS: 2000 RASTA AVE, HARLAN, KY 42600
+     REMIT ADDRESS: 2100 EPPLETT DR, GILETTE, WY 83128
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $199.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      179
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 26
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     RADIO                001         TOYOTA        CHRYSLER         HIGHEST QUALITY
+
+     ORDER ADDRESS: 2200 UMPIRE ST, DOUGLAS, GA 31111
+     SCHED ADDRESS: 2300 VOXX AVE, AUSTIN, MN 56390
+     REMIT ADDRESS: 2400 WYMAN DR, MANDAN, ND 58856
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $319.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      309
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 27
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     CONSOLE              002         JAGUAR        FORD AUTO        LOWEST QUALITY
+
+     ORDER ADDRESS: 2500 XANAX ST, DILAN, MT 59937
+     SCHED ADDRESS: 2600 YACK AVE, TUSCALOOSA, AL 36099
+     REMIT ADDRESS: 2700 ZEBBRA DR, TEMPE, AZ 86200
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $439.77
+     TOTAL QUANTITY IN PURCHASE ORDERS:      429
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 28
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     MUFFLER              003         JAGUAR        KJ IMPORT PARTS  HIGHEST QUALITY
+
+     ORDER ADDRESS: 15 MAIN STREET, SACRAMENTO, CA 95822
+     SCHED ADDRESS: 10 KING STREET, OGDEN, UT 84055
+     REMIT ADDRESS: 11 PINE STREET, BUTE, MT 59032
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $761.16
+     TOTAL QUANTITY IN PURCHASE ORDERS:       12
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 29
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     REAR VIEW MIR        001         TOYOTA        TOYOTA           HIGHEST QUALITY
+
+     ORDER ADDRESS: 1300 GEO ST, CHICAGO, IL 60034
+     SCHED ADDRESS: 1400 NEON RD, GARY, IN 47888
+     REMIT ADDRESS: 1500 CLARK DR, AMES, IA 50001
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:      $1,099.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      549
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 30
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     BRAKE PADS           002         FORD          AAMACO           LOWEST QUALITY
+
+     ORDER ADDRESS: 400 NAPER ST, CAMDEN, AR 71601
+     SCHED ADDRESS: 500 BRIGHT RD, ARCADIA, CA 90001
+     REMIT ADDRESS: 600 LAMPIN DR, ASPEN, CO 80001
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $739.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      179
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 31
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     EXHAUST PIPE         004         VOLKSWAGON    GENERAL MOTORS   HIGHEST QUALITY
+
+     ORDER ADDRESS: 1000 RED ST, CALHOUN, GA 30099
+     SCHED ADDRESS: 1100 BROWN RD, HANALEI, HI 96898
+     REMIT ADDRESS: 1200 BLACK DR, POCATELLO, ID 83201
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $979.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      419
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 32
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     PHLANGE              003         GM            GOOD YEAR        AVERAGE QUALITY
+
+     ORDER ADDRESS: 700 APPLE ST, BRISTOL, CT 06531
+     SCHED ADDRESS: 800 PEAR RD, WILMINGTON, DE 19780
+     REMIT ADDRESS: 900 GRAPE DR, MIAMI, FL 32004
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $809.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:      309
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 33
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     FUEL PUMP            003         JAGUAR        KJ IMPORT PARTS  HIGHEST QUALITY
+
+     ORDER ADDRESS: 15 MAIN STREET, SACRAMENTO, CA 95822
+     SCHED ADDRESS: 10 KING STREET, OGDEN, UT 84055
+     REMIT ADDRESS: 11 PINE STREET, BUTE, MT 59032
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $761.17
+     TOTAL QUANTITY IN PURCHASE ORDERS:       13
+
+
+
+     DATE:  2020/10/04                                                    PAGE: 34
+
+     PART NAME       WEEKS LEAD TIME  VEHICLE MAKE  SUPPLIER NAME    SUPPLIER RATING
+     ==============  ===============  ============  ===============  ===============
+     BRAKE SHOES          001         CHRYSLER      OREILLEYS        HIGHEST QUALITY
+
+     ORDER ADDRESS: 100 MAIN ST, ANNISTON, AL 35004
+     SCHED ADDRESS: 200 KING RD, ANCHORAGE, AK 99501
+     REMIT ADDRESS: 300 FRANKLIN DR, AJO, AZ 86176
+
+     TOTAL # PURCHASE ORDERS: 03
+     TOTAL PRICE PURCHASE ORDERS:        $629.97
+     TOTAL QUANTITY IN PURCHASE ORDERS:       69
+
+
